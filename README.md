@@ -15,7 +15,7 @@
 ### 用户编译
 
 <details>
-   <summary>Pokaż | Show me</summary>
+   <summary>展开</summary>
 
 ``` bash
 #添加到Openwrt源代码中：

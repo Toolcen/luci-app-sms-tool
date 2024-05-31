@@ -33,23 +33,23 @@ make menuconfig
 
 ### 截图
 
-- "Received Messages" window / Okno odebranych wiadomości:
+- 收件箱:
 
 ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/1.9.4-20220325/Odebrane%20wiadomo%C5%9Bci%20-%20LuCI.png?raw=true)
 
-- "Sending Message" window / Okno wysyłania wiadomości:
+- 发短信:
 
 ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/1.9.4-20220325/Wysy%C5%82anie%20wiadomo%C5%9Bci%20-%20LuCI.png?raw=true)
 
-- "USSD Codes" window / Okno kodów USSD:
+- USSD:
 
 ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/1.9.4-20220325/Kody%20USSD%20-%20LuCI.png?raw=true)
 
-- "AT Commands" window / Okno poleceń AT:
+- AT命令:
 
 ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/1.9.4-20220325/Polecenia%20AT%20-%20LuCI.png?raw=true)
 
-- "Configuration" window / Okno konfiguracji:
+- 配置:
 
 ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/1.9.4-20220325/Konfiguracja%20-%20LuCI1.png?raw=true)
 ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/1.9.4-20220325/Konfiguracja%20-%20LuCI2.png?raw=true)

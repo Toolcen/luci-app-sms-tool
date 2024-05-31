@@ -59,10 +59,10 @@ msgid "Please enter a USSD code"
 msgstr "请输入USSD代码"
 
 msgid "Delete selected message(s)?"
-msgstr "是否删除所选邮件？"
+msgstr "是否删除所选短信？"
 
 msgid "Delete all the messages?"
-msgstr "是否删除所有邮件？"
+msgstr "是否删除所有短信？"
 
 msgid "Configuration sms-tool"
 msgstr "配置SMS工具"
@@ -98,7 +98,7 @@ msgid "Messages (Inbox / Maximum)"
 msgstr "短信 (已用 / 全部)"
 
 msgid "Delete Selected"
-msgstr "删除所选内容е"
+msgstr "删除所选内容"
 
 msgid "Delete message(s)"
 msgstr "删除短信"
@@ -113,7 +113,7 @@ msgid "Send to"
 msgstr "收件人"
 
 msgid "Message text"
-msgstr "收件信息"
+msgstr "收件内容"
 
 msgid "Send Message"
 msgstr "发送短信"
